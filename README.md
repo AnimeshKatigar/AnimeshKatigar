@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I am Animesh and I like to host parties @localhost:3000 🥂</div>  
   
 
--  🤓 I’m currently in TE of my bachelor's degree  
+-  🤓 I’m currently in BE of my bachelor's degree  
   
 
 - 🌌 I know Machine Learning, Data Science but I am more into Web Development..  
