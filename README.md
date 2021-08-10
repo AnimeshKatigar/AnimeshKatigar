@@ -93,6 +93,6 @@
 
 
 ### Also I am into music 🎧🎶....  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lyywavyohfuklo7fejqri7kobi&cover_image=true&theme=default" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fu5dsavi0scevpfwctp2oxdi3&cover_image=true&theme=default" /></div>
 <br />
 
