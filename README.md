@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
 <div align="center">
-<img src="https://github.com/AnimeshKatigar/AnimeshKatigar/blob/main/catCoding.gif" />
+<img src="https://github.com/AnimeshKatigar/AnimeshKatigar/blob/main/catCoding.gif" style='height: 200px'/>
 </div>
 
 ### <div align="center">Hi, I am Animesh and I like to host parties @localhost:3000 🥂</div>  
