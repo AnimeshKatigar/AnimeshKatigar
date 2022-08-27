@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 <div align="center">
-<img src="https://github.com/AnimeshKatigar/AnimeshKatigar/blob/main/catCoding.mp4" align="center" style="width: 100%" />
+<img src="https://github.com/AnimeshKatigar/AnimeshKatigar/blob/main/catCoding.gif" />
 </div>
 
 ### <div align="center">Hi, I am Animesh and I like to host parties @localhost:3000 🥂</div>  
