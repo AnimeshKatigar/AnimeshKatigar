@@ -8,10 +8,10 @@
 ### <div align="center">Hi, I am Animesh and I like to host parties @localhost:3000 🥂</div>  
   
 
--  🤓 I’m currently in BE of my bachelor's degree  
+-  🤓 I’m currently working as an assistant manager at Jio  
   
 
-- 🌌 I know Machine Learning, Data Science but I am more into Web Development..  
+- 🌌 I have completed my BE in Information Technology.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
