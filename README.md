@@ -8,7 +8,10 @@
 ### <div align="center">Hi, I am Animesh and I like to host parties @localhost:3000 🥂</div>  
   
 
--  🤓 I’m currently working as an assistant manager at Jio  
+-  🤓 I’m currently working as a software developer at Jio
+
+
+-  👩‍💻 Proficient in web frontend libraries like ReactJs, NextJs. 
   
 
 - 🌌 I have completed my BE in Information Technology.  
